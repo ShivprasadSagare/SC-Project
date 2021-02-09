@@ -5,11 +5,12 @@ import pickle
 import json
 import dill
 from tqdm import tqdm
+import os
 
 endpoint_url = "https://query.wikidata.org/sparql"
 
 query1 = """SELECT DISTINCT ?person ?personLabel ?article WHERE {
-  ?person wdt:P641 wd:Q5375;
+  ?person wdt:P106 wd:Q33999;
           wdt:P31 wd:Q5.
   ?article schema:about ?person;
            schema:isPartOf <https://hi.wikipedia.org/>.
@@ -46,7 +47,6 @@ fail_ids = []
   
 with tqdm(results1['results']['bindings'], desc="fetching entity data", ) as pbar:
   for result1 in pbar:
-    pbar.set_description_str("success: %d, fail: %d" % (success, fail))
     Q_id = extract_id(result1['person']['value'])
     try:
       results2 = get_results(endpoint_url, query2%Q_id)
@@ -55,11 +55,14 @@ with tqdm(results1['results']['bindings'], desc="fetching entity data", ) as pba
       fail += 1
       fail_ids.append(Q_id)
       continue
-    dict[Q_id] = {}
-    dict[Q_id]['personLabel'] = result1['personLabel']['value']
-    dict[Q_id]['Hindi sitelink'] = result1['article']['value']
-    dict[Q_id]['triples'] = [{'propertyLabel': result2['propertyLabel']['value'], 'objectLabel': result2['objectLabel']['value']} for result2 in results2['results']['bindings']]
-
-
-with open('cricketers.json', 'w') as outfile:
+    else:
+      dict[Q_id] = {}
+      dict[Q_id]['personLabel'] = result1['personLabel']['value']
+      dict[Q_id]['Hindi sitelink'] = result1['article']['value']
+      dict[Q_id]['triples'] = [{'propertyLabel': result2['propertyLabel']['value'], 'objectLabel': result2['objectLabel']['value']} for result2 in results2['results']['bindings']]
+    finally:
+      pbar.set_description_str("success: %d, fail: %d" % (success, fail))
+      
+dir_path = os.path.dirname(os.path.realpath(__file__))
+with open(os.path.join(dir_path, 'actors.json'), 'w') as outfile:
     json.dump(dict, outfile)

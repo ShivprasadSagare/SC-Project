@@ -25,6 +25,6 @@ SELECT DISTINCT ?person ?personLabel ?article WHERE {
            schema:isPartOf <https://hi.wikipedia.org/>.
   
   SERVICE wikibase:label { 
-    bd:serviceParam wikibase:language "hi". 
+    bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". 
   }
 }
