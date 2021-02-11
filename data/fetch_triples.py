@@ -10,7 +10,7 @@ import os
 endpoint_url = "https://query.wikidata.org/sparql"
 
 query1 = """SELECT DISTINCT ?person ?personLabel ?article WHERE {
-  ?person wdt:P106 wd:Q33999;
+  ?person wdt:P106 wd:Q82955;
           wdt:P31 wd:Q5.
   ?article schema:about ?person;
            schema:isPartOf <https://hi.wikipedia.org/>.
@@ -64,5 +64,5 @@ with tqdm(results1['results']['bindings'], desc="fetching entity data", ) as pba
       pbar.set_description_str("success: %d, fail: %d" % (success, fail))
       
 dir_path = os.path.dirname(os.path.realpath(__file__))
-with open(os.path.join(dir_path, 'actors.json'), 'w') as outfile:
+with open(os.path.join(dir_path, 'politicians.json'), 'w') as outfile:
     json.dump(dict, outfile)
