@@ -1,0 +1,4 @@
+category,total entities on wikidata, SPARQL fetching success, SPARQL fetching fail, wikipedia API success, Wikipedia API fail
+cricketers,2597,2596,1, 2595, 1
+actors, 2504, 2503, 1, 2497, 6
+politicians, 6337, 6337, 0, 6335, 2
