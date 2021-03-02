@@ -6,6 +6,10 @@ Ver 2: This directory contains JSON files with Hindi wikipedia content in text f
 
 Ver 3: This is the latest version of data which contains sentences tokenized from Hindi articles in addition to all previous data fields.
 
+Ver 4: Triples are arranged in list of tuples format. For use in swayatta's task.
+
+Ver 5: Updated data by performing statistical analysis and removing outlier data points. 
+
 -----------------
 
 stats.csv contains number of entities, success count, failure count for preprocessing steps. 
