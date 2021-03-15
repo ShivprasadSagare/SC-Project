@@ -1,0 +1,19 @@
+{% extends "layout.html" %}
+{% block page_title %}Here, you can create politicians dataset{% endblock %}
+{% block body %}
+    {{ super () }}
+    
+    <body>
+
+      <br><br>
+      <p> You're currently annotating entity number {{iterator}}. You can change this in app.py </p>
+      <form method="post">
+        Person - {{jsonfile[key]['personLabel']}} <br>
+        <input type="text" name="sentence" value="{{jsonfile[key]['sentences'][0]}}" size=100> <br>
+        {% for i in range(jsonfile[key]['triples'] | length) %}
+          <input type="checkbox" name="triples" value="{{jsonfile[key]['triples'][i]['propertyLabel']}}, {{jsonfile[key]['triples'][i]['objectLabel']}}"> {{jsonfile[key]['triples'][i]['propertyLabel']}} ----- {{jsonfile[key]['triples'][i]['objectLabel']}} <br>
+        {% endfor %}
+        <input type="submit" value="submit">
+      </form>
+    </body>
+  {% endblock %}
