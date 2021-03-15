@@ -1,0 +1,44 @@
+{% extends "layout.html" %}
+{% block page_title %}Welcome, this webapp is used to create the dataset{% endblock %}
+{% block body %}
+    {{ super() }}
+
+    <head>
+      <script type="text/javascript">
+        function goToNewPage()
+        {
+            var url = document.getElementById('subdomain').value;
+            if(url != 'none') {
+                window.location = url;
+            }
+            console.log(url);
+        }
+    </script>
+    
+    </head>
+    <form method="GET">
+        <div class="form-row">
+          <div class="col-12 col-md-9 mb-2 mb-md-0">
+              <label for="subdomain">Choose a choose subdomain to work on:</label>
+              <select name="subdomain" id="subdomain">
+                <option value="politicians">Politicians</option>
+                <option value="cricketers">Cricketers</option>
+                <option value="actors">Actors</option>
+              </select>
+              <br><br>
+            <input type="button" value="Go" class="btn btn-block btn-lg btn-primary" onclick="goToNewPage()">
+
+            </form>
+          </div>
+          <div class="col-12 col-md-3">
+          </div>
+        </div>
+</form>
+
+{% if status == "found" %}
+<p>The items is found </p>
+{% endif %}
+{% if status == "not found" %}
+<p>The items is not found </p>
+{% endif %}
+{% endblock %}
