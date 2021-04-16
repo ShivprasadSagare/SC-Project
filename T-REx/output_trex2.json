@@ -1,0 +1,692 @@
+
+
+'sentence':कोट्टरी सुबन्ना नायडु (18 अप्रैल 1914 22 नवंबर 2002) भारतीय क्रिकेट खिलाड़ी थे, जिन्होंने 1934 से 1952 तक ग्यारह टेस्ट खेले
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [56, 69], 'surfaceform': '18 April 1914', 'uri': '1914-04-18T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': None, 'surfaceform': 'C. S. Nayudu', 'uri': 'http://www.wikidata.org/entity/Q3529122', 'annotator': 'NoSubject-Triple-aligner'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':कोट्टरी सुबन्ना नायडु (18 अप्रैल 1914 22 नवंबर 2002) भारतीय क्रिकेट खिलाड़ी थे, जिन्होंने 1934 से 1952 तक ग्यारह टेस्ट खेले
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P570', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [93, 109], 'surfaceform': '22 November 2002', 'uri': '2002-11-22T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': None, 'surfaceform': 'C. S. Nayudu', 'uri': 'http://www.wikidata.org/entity/Q3529122', 'annotator': 'NoSubject-Triple-aligner'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':कोट्टरी सुबन्ना नायडु (18 अप्रैल 1914 22 नवंबर 2002) भारतीय क्रिकेट खिलाड़ी थे, जिन्होंने 1934 से 1952 तक ग्यारह टेस्ट खेले
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P47', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [119, 133], 'surfaceform': 'Madhya Pradesh', 'uri': 'http://www.wikidata.org/entity/Q1188', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [79, 90], 'surfaceform': 'Maharashtra', 'uri': 'http://www.wikidata.org/entity/Q1191', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':कोट्टरी सुबन्ना नायडु (18 अप्रैल 1914 22 नवंबर 2002) भारतीय क्रिकेट खिलाड़ी थे, जिन्होंने 1934 से 1952 तक ग्यारह टेस्ट खेले
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P47', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [79, 90], 'surfaceform': 'Maharashtra', 'uri': 'http://www.wikidata.org/entity/Q1191', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [119, 133], 'surfaceform': 'Madhya Pradesh', 'uri': 'http://www.wikidata.org/entity/Q1188', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':में सूचना एवं प्रसारण मंत्रालय में मंत्री बनाया गया है
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P106', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [49, 59], 'surfaceform': 'politician', 'uri': 'http://www.wikidata.org/entity/Q82955', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 11], 'surfaceform': 'Ambika Soni', 'uri': 'http://www.wikidata.org/entity/Q3347864', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':में सूचना एवं प्रसारण मंत्रालय में मंत्री बनाया गया है
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P102', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [73, 97], 'surfaceform': 'Indian National Congress', 'uri': 'http://www.wikidata.org/entity/Q10225', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 11], 'surfaceform': 'Ambika Soni', 'uri': 'http://www.wikidata.org/entity/Q3347864', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':में सूचना एवं प्रसारण मंत्रालय में मंत्री बनाया गया है
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [18, 34], 'surfaceform': '13 November 1942', 'uri': '1942-11-13T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 11], 'surfaceform': 'Ambika Soni', 'uri': 'http://www.wikidata.org/entity/Q3347864', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':में सूचना एवं प्रसारण मंत्रालय में मंत्री बनाया गया है
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P106', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [49, 59], 'surfaceform': 'politician', 'uri': 'http://www.wikidata.org/entity/Q82955', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 11], 'surfaceform': 'Ambika Soni', 'uri': 'http://www.wikidata.org/entity/Q3347864', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':में सूचना एवं प्रसारण मंत्रालय में मंत्री बनाया गया है
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P102', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [73, 97], 'surfaceform': 'Indian National Congress', 'uri': 'http://www.wikidata.org/entity/Q10225', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 11], 'surfaceform': 'Ambika Soni', 'uri': 'http://www.wikidata.org/entity/Q3347864', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':में सूचना एवं प्रसारण मंत्रालय में मंत्री बनाया गया है
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [18, 34], 'surfaceform': '13 November 1942', 'uri': '1942-11-13T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 11], 'surfaceform': 'Ambika Soni', 'uri': 'http://www.wikidata.org/entity/Q3347864', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':में सूचना एवं प्रसारण मंत्रालय में मंत्री बनाया गया है
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P106', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [49, 59], 'surfaceform': 'politician', 'uri': 'http://www.wikidata.org/entity/Q82955', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 11], 'surfaceform': 'Ambika Soni', 'uri': 'http://www.wikidata.org/entity/Q3347864', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':में सूचना एवं प्रसारण मंत्रालय में मंत्री बनाया गया है
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P102', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [73, 97], 'surfaceform': 'Indian National Congress', 'uri': 'http://www.wikidata.org/entity/Q10225', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 11], 'surfaceform': 'Ambika Soni', 'uri': 'http://www.wikidata.org/entity/Q3347864', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':में सूचना एवं प्रसारण मंत्रालय में मंत्री बनाया गया है
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [18, 34], 'surfaceform': '13 November 1942', 'uri': '1942-11-13T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 11], 'surfaceform': 'Ambika Soni', 'uri': 'http://www.wikidata.org/entity/Q3347864', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':में सूचना एवं प्रसारण मंत्रालय में मंत्री बनाया गया है
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P106', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [49, 59], 'surfaceform': 'politician', 'uri': 'http://www.wikidata.org/entity/Q82955', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 11], 'surfaceform': 'Ambika Soni', 'uri': 'http://www.wikidata.org/entity/Q3347864', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':में सूचना एवं प्रसारण मंत्रालय में मंत्री बनाया गया है
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P102', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [73, 97], 'surfaceform': 'Indian National Congress', 'uri': 'http://www.wikidata.org/entity/Q10225', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 11], 'surfaceform': 'Ambika Soni', 'uri': 'http://www.wikidata.org/entity/Q3347864', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':में सूचना एवं प्रसारण मंत्रालय में मंत्री बनाया गया है
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [18, 34], 'surfaceform': '13 November 1942', 'uri': '1942-11-13T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 11], 'surfaceform': 'Ambika Soni', 'uri': 'http://www.wikidata.org/entity/Q3347864', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':में सूचना एवं प्रसारण मंत्रालय में मंत्री बनाया गया है
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P106', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [49, 59], 'surfaceform': 'politician', 'uri': 'http://www.wikidata.org/entity/Q82955', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 11], 'surfaceform': 'Ambika Soni', 'uri': 'http://www.wikidata.org/entity/Q3347864', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':में सूचना एवं प्रसारण मंत्रालय में मंत्री बनाया गया है
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P102', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [73, 97], 'surfaceform': 'Indian National Congress', 'uri': 'http://www.wikidata.org/entity/Q10225', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 11], 'surfaceform': 'Ambika Soni', 'uri': 'http://www.wikidata.org/entity/Q3347864', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':में सूचना एवं प्रसारण मंत्रालय में मंत्री बनाया गया है
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [18, 34], 'surfaceform': '13 November 1942', 'uri': '1942-11-13T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 11], 'surfaceform': 'Ambika Soni', 'uri': 'http://www.wikidata.org/entity/Q3347864', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':में सूचना एवं प्रसारण मंत्रालय में मंत्री बनाया गया है
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P106', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [49, 59], 'surfaceform': 'politician', 'uri': 'http://www.wikidata.org/entity/Q82955', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 11], 'surfaceform': 'Ambika Soni', 'uri': 'http://www.wikidata.org/entity/Q3347864', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':में सूचना एवं प्रसारण मंत्रालय में मंत्री बनाया गया है
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P102', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [73, 97], 'surfaceform': 'Indian National Congress', 'uri': 'http://www.wikidata.org/entity/Q10225', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 11], 'surfaceform': 'Ambika Soni', 'uri': 'http://www.wikidata.org/entity/Q3347864', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':में सूचना एवं प्रसारण मंत्रालय में मंत्री बनाया गया है
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [18, 34], 'surfaceform': '13 November 1942', 'uri': '1942-11-13T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 11], 'surfaceform': 'Ambika Soni', 'uri': 'http://www.wikidata.org/entity/Q3347864', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':में सूचना एवं प्रसारण मंत्रालय में मंत्री बनाया गया है
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P106', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [49, 59], 'surfaceform': 'politician', 'uri': 'http://www.wikidata.org/entity/Q82955', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 11], 'surfaceform': 'Ambika Soni', 'uri': 'http://www.wikidata.org/entity/Q3347864', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':में सूचना एवं प्रसारण मंत्रालय में मंत्री बनाया गया है
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P102', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [73, 97], 'surfaceform': 'Indian National Congress', 'uri': 'http://www.wikidata.org/entity/Q10225', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 11], 'surfaceform': 'Ambika Soni', 'uri': 'http://www.wikidata.org/entity/Q3347864', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':में सूचना एवं प्रसारण मंत्रालय में मंत्री बनाया गया है
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [18, 34], 'surfaceform': '13 November 1942', 'uri': '1942-11-13T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 11], 'surfaceform': 'Ambika Soni', 'uri': 'http://www.wikidata.org/entity/Q3347864', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':में सूचना एवं प्रसारण मंत्रालय में मंत्री बनाया गया है
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P106', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [49, 59], 'surfaceform': 'politician', 'uri': 'http://www.wikidata.org/entity/Q82955', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 11], 'surfaceform': 'Ambika Soni', 'uri': 'http://www.wikidata.org/entity/Q3347864', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':में सूचना एवं प्रसारण मंत्रालय में मंत्री बनाया गया है
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P102', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [73, 97], 'surfaceform': 'Indian National Congress', 'uri': 'http://www.wikidata.org/entity/Q10225', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 11], 'surfaceform': 'Ambika Soni', 'uri': 'http://www.wikidata.org/entity/Q3347864', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':में सूचना एवं प्रसारण मंत्रालय में मंत्री बनाया गया है
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [18, 34], 'surfaceform': '13 November 1942', 'uri': '1942-11-13T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 11], 'surfaceform': 'Ambika Soni', 'uri': 'http://www.wikidata.org/entity/Q3347864', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':एन॰ धरम सिंह (२५ दिसम्बर १९३६ २७ जुलाई २०१७) भारत के एक राजनेता थे जो २००४ से २००६ तक कर्नाटक के मुख्यमन्त्री रहे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P106', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [64, 74], 'surfaceform': 'politician', 'uri': 'http://www.wikidata.org/entity/Q82955', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 12], 'surfaceform': 'Dharam Singh', 'uri': 'http://www.wikidata.org/entity/Q562303', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':एन॰ धरम सिंह (२५ दिसम्बर १९३६ २७ जुलाई २०१७) भारत के एक राजनेता थे जो २००४ से २००६ तक कर्नाटक के मुख्यमन्त्री रहे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P27', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [141, 146], 'surfaceform': 'India', 'uri': 'http://www.wikidata.org/entity/Q668', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 12], 'surfaceform': 'Dharam Singh', 'uri': 'http://www.wikidata.org/entity/Q562303', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':एन॰ धरम सिंह (२५ दिसम्बर १९३६ २७ जुलाई २०१७) भारत के एक राजनेता थे जो २००४ से २००६ तक कर्नाटक के मुख्यमन्त्री रहे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [33, 49], 'surfaceform': '25 December 1936', 'uri': '1936-12-25T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 12], 'surfaceform': 'Dharam Singh', 'uri': 'http://www.wikidata.org/entity/Q562303', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':एन॰ धरम सिंह (२५ दिसम्बर १९३६ २७ जुलाई २०१७) भारत के एक राजनेता थे जो २००४ से २००६ तक कर्नाटक के मुख्यमन्त्री रहे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P106', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [64, 74], 'surfaceform': 'politician', 'uri': 'http://www.wikidata.org/entity/Q82955', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 12], 'surfaceform': 'Dharam Singh', 'uri': 'http://www.wikidata.org/entity/Q562303', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':एन॰ धरम सिंह (२५ दिसम्बर १९३६ २७ जुलाई २०१७) भारत के एक राजनेता थे जो २००४ से २००६ तक कर्नाटक के मुख्यमन्त्री रहे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P27', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [141, 146], 'surfaceform': 'India', 'uri': 'http://www.wikidata.org/entity/Q668', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 12], 'surfaceform': 'Dharam Singh', 'uri': 'http://www.wikidata.org/entity/Q562303', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':एन॰ धरम सिंह (२५ दिसम्बर १९३६ २७ जुलाई २०१७) भारत के एक राजनेता थे जो २००४ से २००६ तक कर्नाटक के मुख्यमन्त्री रहे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [33, 49], 'surfaceform': '25 December 1936', 'uri': '1936-12-25T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 12], 'surfaceform': 'Dharam Singh', 'uri': 'http://www.wikidata.org/entity/Q562303', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':एन॰ धरम सिंह (२५ दिसम्बर १९३६ २७ जुलाई २०१७) भारत के एक राजनेता थे जो २००४ से २००६ तक कर्नाटक के मुख्यमन्त्री रहे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P17', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [141, 146], 'surfaceform': 'India', 'uri': 'http://www.wikidata.org/entity/Q668', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [110, 119], 'surfaceform': 'Karnataka', 'uri': 'http://www.wikidata.org/entity/Q1185', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':एन॰ धरम सिंह (२५ दिसम्बर १९३६ २७ जुलाई २०१७) भारत के एक राजनेता थे जो २००४ से २००६ तक कर्नाटक के मुख्यमन्त्री रहे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P131', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [141, 146], 'surfaceform': 'India', 'uri': 'http://www.wikidata.org/entity/Q668', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [110, 119], 'surfaceform': 'Karnataka', 'uri': 'http://www.wikidata.org/entity/Q1185', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':एन॰ धरम सिंह (२५ दिसम्बर १९३६ २७ जुलाई २०१७) भारत के एक राजनेता थे जो २००४ से २००६ तक कर्नाटक के मुख्यमन्त्री रहे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P150', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [110, 119], 'surfaceform': 'Karnataka', 'uri': 'http://www.wikidata.org/entity/Q1185', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [141, 146], 'surfaceform': 'India', 'uri': 'http://www.wikidata.org/entity/Q668', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':एन॰ धरम सिंह (२५ दिसम्बर १९३६ २७ जुलाई २०१७) भारत के एक राजनेता थे जो २००४ से २००६ तक कर्नाटक के मुख्यमन्त्री रहे
+{'sentence_id': 0, 'predicate': {'boundaries': [123, 128], 'surfaceform': 'state', 'uri': 'http://www.wikidata.org/prop/direct/P17', 'annotator': 'Wikidata_Property_Linker'}, 'object': {'boundaries': [141, 146], 'surfaceform': 'India', 'uri': 'http://www.wikidata.org/entity/Q668', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [110, 119], 'surfaceform': 'Karnataka', 'uri': 'http://www.wikidata.org/entity/Q1185', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'SPOAligner'}
+
+
+'sentence':कर्नल मानवेन्द्र सिंह एक भारतीय राजनीतिज्ञ तथा पूर्व बाड़मेर लोक सभा निर्वाचन क्षेत्र से (2004-2009)सांसद थे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P106', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [64, 74], 'surfaceform': 'politician', 'uri': 'http://www.wikidata.org/entity/Q82955', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 12], 'surfaceform': 'Dharam Singh', 'uri': 'http://www.wikidata.org/entity/Q562303', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':कर्नल मानवेन्द्र सिंह एक भारतीय राजनीतिज्ञ तथा पूर्व बाड़मेर लोक सभा निर्वाचन क्षेत्र से (2004-2009)सांसद थे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P27', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [141, 146], 'surfaceform': 'India', 'uri': 'http://www.wikidata.org/entity/Q668', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 12], 'surfaceform': 'Dharam Singh', 'uri': 'http://www.wikidata.org/entity/Q562303', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':कर्नल मानवेन्द्र सिंह एक भारतीय राजनीतिज्ञ तथा पूर्व बाड़मेर लोक सभा निर्वाचन क्षेत्र से (2004-2009)सांसद थे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [33, 49], 'surfaceform': '25 December 1936', 'uri': '1936-12-25T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 12], 'surfaceform': 'Dharam Singh', 'uri': 'http://www.wikidata.org/entity/Q562303', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':कर्नल मानवेन्द्र सिंह एक भारतीय राजनीतिज्ञ तथा पूर्व बाड़मेर लोक सभा निर्वाचन क्षेत्र से (2004-2009)सांसद थे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P106', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [64, 74], 'surfaceform': 'politician', 'uri': 'http://www.wikidata.org/entity/Q82955', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 12], 'surfaceform': 'Dharam Singh', 'uri': 'http://www.wikidata.org/entity/Q562303', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':कर्नल मानवेन्द्र सिंह एक भारतीय राजनीतिज्ञ तथा पूर्व बाड़मेर लोक सभा निर्वाचन क्षेत्र से (2004-2009)सांसद थे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P27', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [141, 146], 'surfaceform': 'India', 'uri': 'http://www.wikidata.org/entity/Q668', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 12], 'surfaceform': 'Dharam Singh', 'uri': 'http://www.wikidata.org/entity/Q562303', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':कर्नल मानवेन्द्र सिंह एक भारतीय राजनीतिज्ञ तथा पूर्व बाड़मेर लोक सभा निर्वाचन क्षेत्र से (2004-2009)सांसद थे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [33, 49], 'surfaceform': '25 December 1936', 'uri': '1936-12-25T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 12], 'surfaceform': 'Dharam Singh', 'uri': 'http://www.wikidata.org/entity/Q562303', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':कर्नल मानवेन्द्र सिंह एक भारतीय राजनीतिज्ञ तथा पूर्व बाड़मेर लोक सभा निर्वाचन क्षेत्र से (2004-2009)सांसद थे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P17', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [141, 146], 'surfaceform': 'India', 'uri': 'http://www.wikidata.org/entity/Q668', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [110, 119], 'surfaceform': 'Karnataka', 'uri': 'http://www.wikidata.org/entity/Q1185', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':कर्नल मानवेन्द्र सिंह एक भारतीय राजनीतिज्ञ तथा पूर्व बाड़मेर लोक सभा निर्वाचन क्षेत्र से (2004-2009)सांसद थे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P131', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [141, 146], 'surfaceform': 'India', 'uri': 'http://www.wikidata.org/entity/Q668', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [110, 119], 'surfaceform': 'Karnataka', 'uri': 'http://www.wikidata.org/entity/Q1185', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':कर्नल मानवेन्द्र सिंह एक भारतीय राजनीतिज्ञ तथा पूर्व बाड़मेर लोक सभा निर्वाचन क्षेत्र से (2004-2009)सांसद थे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P150', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [110, 119], 'surfaceform': 'Karnataka', 'uri': 'http://www.wikidata.org/entity/Q1185', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [141, 146], 'surfaceform': 'India', 'uri': 'http://www.wikidata.org/entity/Q668', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':कर्नल मानवेन्द्र सिंह एक भारतीय राजनीतिज्ञ तथा पूर्व बाड़मेर लोक सभा निर्वाचन क्षेत्र से (2004-2009)सांसद थे
+{'sentence_id': 0, 'predicate': {'boundaries': [123, 128], 'surfaceform': 'state', 'uri': 'http://www.wikidata.org/prop/direct/P17', 'annotator': 'Wikidata_Property_Linker'}, 'object': {'boundaries': [141, 146], 'surfaceform': 'India', 'uri': 'http://www.wikidata.org/entity/Q668', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [110, 119], 'surfaceform': 'Karnataka', 'uri': 'http://www.wikidata.org/entity/Q1185', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'SPOAligner'}
+
+
+'sentence':वे जेवरगी से ७ बार लगातार कर्नाटक विधान सभा के सदस्य चुने गये
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P106', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [64, 74], 'surfaceform': 'politician', 'uri': 'http://www.wikidata.org/entity/Q82955', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 12], 'surfaceform': 'Dharam Singh', 'uri': 'http://www.wikidata.org/entity/Q562303', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':वे जेवरगी से ७ बार लगातार कर्नाटक विधान सभा के सदस्य चुने गये
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P27', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [141, 146], 'surfaceform': 'India', 'uri': 'http://www.wikidata.org/entity/Q668', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 12], 'surfaceform': 'Dharam Singh', 'uri': 'http://www.wikidata.org/entity/Q562303', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':वे जेवरगी से ७ बार लगातार कर्नाटक विधान सभा के सदस्य चुने गये
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [33, 49], 'surfaceform': '25 December 1936', 'uri': '1936-12-25T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 12], 'surfaceform': 'Dharam Singh', 'uri': 'http://www.wikidata.org/entity/Q562303', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':वे जेवरगी से ७ बार लगातार कर्नाटक विधान सभा के सदस्य चुने गये
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P106', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [64, 74], 'surfaceform': 'politician', 'uri': 'http://www.wikidata.org/entity/Q82955', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 12], 'surfaceform': 'Dharam Singh', 'uri': 'http://www.wikidata.org/entity/Q562303', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':वे जेवरगी से ७ बार लगातार कर्नाटक विधान सभा के सदस्य चुने गये
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P27', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [141, 146], 'surfaceform': 'India', 'uri': 'http://www.wikidata.org/entity/Q668', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 12], 'surfaceform': 'Dharam Singh', 'uri': 'http://www.wikidata.org/entity/Q562303', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':वे जेवरगी से ७ बार लगातार कर्नाटक विधान सभा के सदस्य चुने गये
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [33, 49], 'surfaceform': '25 December 1936', 'uri': '1936-12-25T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 12], 'surfaceform': 'Dharam Singh', 'uri': 'http://www.wikidata.org/entity/Q562303', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':वे जेवरगी से ७ बार लगातार कर्नाटक विधान सभा के सदस्य चुने गये
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P17', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [141, 146], 'surfaceform': 'India', 'uri': 'http://www.wikidata.org/entity/Q668', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [110, 119], 'surfaceform': 'Karnataka', 'uri': 'http://www.wikidata.org/entity/Q1185', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':वे जेवरगी से ७ बार लगातार कर्नाटक विधान सभा के सदस्य चुने गये
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P131', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [141, 146], 'surfaceform': 'India', 'uri': 'http://www.wikidata.org/entity/Q668', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [110, 119], 'surfaceform': 'Karnataka', 'uri': 'http://www.wikidata.org/entity/Q1185', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':वे जेवरगी से ७ बार लगातार कर्नाटक विधान सभा के सदस्य चुने गये
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P150', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [110, 119], 'surfaceform': 'Karnataka', 'uri': 'http://www.wikidata.org/entity/Q1185', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [141, 146], 'surfaceform': 'India', 'uri': 'http://www.wikidata.org/entity/Q668', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':वे जेवरगी से ७ बार लगातार कर्नाटक विधान सभा के सदस्य चुने गये
+{'sentence_id': 0, 'predicate': {'boundaries': [123, 128], 'surfaceform': 'state', 'uri': 'http://www.wikidata.org/prop/direct/P17', 'annotator': 'Wikidata_Property_Linker'}, 'object': {'boundaries': [141, 146], 'surfaceform': 'India', 'uri': 'http://www.wikidata.org/entity/Q668', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [110, 119], 'surfaceform': 'Karnataka', 'uri': 'http://www.wikidata.org/entity/Q1185', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'SPOAligner'}
+
+
+'sentence':उन्होंने 1990 में विद्रोही दौरे की पार्टी के कप्तान के रूप में दक्षिण अफ्रीका का दौरा किया
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P19', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [56, 65], 'surfaceform': 'Kingsbury', 'uri': 'http://www.wikidata.org/entity/Q147127', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': None, 'surfaceform': 'Mike Gatting', 'uri': 'http://www.wikidata.org/entity/Q3528518', 'annotator': 'NoSubject-Triple-aligner'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':उन्होंने 1990 में विद्रोही दौरे की पार्टी के कप्तान के रूप में दक्षिण अफ्रीका का दौरा किया
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [41, 52], 'surfaceform': '6 June 1957', 'uri': '1957-06-06T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': None, 'surfaceform': 'Mike Gatting', 'uri': 'http://www.wikidata.org/entity/Q3528518', 'annotator': 'NoSubject-Triple-aligner'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':उन्होंने 1990 में विद्रोही दौरे की पार्टी के कप्तान के रूप में दक्षिण अफ्रीका का दौरा किया
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P641', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [131, 138], 'surfaceform': 'cricket', 'uri': 'http://www.wikidata.org/entity/Q5375', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [67, 74], 'surfaceform': 'England', 'uri': 'http://www.wikidata.org/entity/Q1321565', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':उन्होंने 1990 में विद्रोही दौरे की पार्टी के कप्तान के रूप में दक्षिण अफ्रीका का दौरा किया
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P641', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [131, 138], 'surfaceform': 'cricket', 'uri': 'http://www.wikidata.org/entity/Q5375', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [143, 152], 'surfaceform': 'Middlesex', 'uri': 'http://www.wikidata.org/entity/Q2725694', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':उन्होंने 1990 में विद्रोही दौरे की पार्टी के कप्तान के रूप में दक्षिण अफ्रीका का दौरा किया
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P641', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [131, 138], 'surfaceform': 'cricket', 'uri': 'http://www.wikidata.org/entity/Q5375', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [192, 199], 'surfaceform': 'England', 'uri': 'http://www.wikidata.org/entity/Q1321565', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':उन्होंने 1990 में विद्रोही दौरे की पार्टी के कप्तान के रूप में दक्षिण अफ्रीका का दौरा किया
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P641', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [131, 138], 'surfaceform': 'cricket', 'uri': 'http://www.wikidata.org/entity/Q5375', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [264, 276], 'surfaceform': 'Test matches', 'uri': 'http://www.wikidata.org/entity/Q1132113', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':चौधरी रहमत अली (उर्दू: چودھری رحمت علی) (नवंबर, 1897 3 फ़रवरी 1951) एक पाकिस्तानवे मुस्लिम गुर्जर परिवार में पैदा हुए.
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [60, 76], 'surfaceform': '16 November 1895', 'uri': '1895-11-16T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 19], 'surfaceform': 'Chaudhry Rehmat Ali', 'uri': 'http://www.wikidata.org/entity/Q263795', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':चौधरी रहमत अली (उर्दू: چودھری رحمت علی) (नवंबर, 1897 3 फ़रवरी 1951) एक पाकिस्तानवे मुस्लिम गुर्जर परिवार में पैदा हुए.
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P570', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [79, 94], 'surfaceform': '3 February 1951', 'uri': '1951-02-03T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 19], 'surfaceform': 'Chaudhry Rehmat Ali', 'uri': 'http://www.wikidata.org/entity/Q263795', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':चौधरी रहमत अली (उर्दू: چودھری رحمت علی) (नवंबर, 1897 3 फ़रवरी 1951) एक पाकिस्तानवे मुस्लिम गुर्जर परिवार में पैदा हुए.
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [60, 76], 'surfaceform': '16 November 1895', 'uri': '1895-11-16T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 19], 'surfaceform': 'Chaudhry Rehmat Ali', 'uri': 'http://www.wikidata.org/entity/Q263795', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':चौधरी रहमत अली (उर्दू: چودھری رحمت علی) (नवंबर, 1897 3 फ़रवरी 1951) एक पाकिस्तानवे मुस्लिम गुर्जर परिवार में पैदा हुए.
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P570', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [79, 94], 'surfaceform': '3 February 1951', 'uri': '1951-02-03T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 19], 'surfaceform': 'Chaudhry Rehmat Ali', 'uri': 'http://www.wikidata.org/entity/Q263795', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':नाउमल जिउमल माखीजा (17 अप्रैल 1904, कराची – 28 जुलाई 1980, मुम्बई) भारत के टेस्ट क्रिकेट के प्रथम ओपेनिंग बल्लेबाज थे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P19', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [71, 78], 'surfaceform': 'Karachi', 'uri': 'http://www.wikidata.org/entity/Q8660', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': None, 'surfaceform': 'Naoomal Jeoomal', 'uri': 'http://www.wikidata.org/entity/Q3528418', 'annotator': 'NoSubject-Triple-aligner'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':नाउमल जिउमल माखीजा (17 अप्रैल 1904, कराची – 28 जुलाई 1980, मुम्बई) भारत के टेस्ट क्रिकेट के प्रथम ओपेनिंग बल्लेबाज थे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [56, 69], 'surfaceform': '17 April 1904', 'uri': '1904-04-17T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': None, 'surfaceform': 'Naoomal Jeoomal', 'uri': 'http://www.wikidata.org/entity/Q3528418', 'annotator': 'NoSubject-Triple-aligner'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':नाउमल जिउमल माखीजा (17 अप्रैल 1904, कराची – 28 जुलाई 1980, मुम्बई) भारत के टेस्ट क्रिकेट के प्रथम ओपेनिंग बल्लेबाज थे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P570', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [81, 93], 'surfaceform': '28 July 1980', 'uri': '1980-07-28T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': None, 'surfaceform': 'Naoomal Jeoomal', 'uri': 'http://www.wikidata.org/entity/Q3528418', 'annotator': 'NoSubject-Triple-aligner'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':नाउमल जिउमल माखीजा (17 अप्रैल 1904, कराची – 28 जुलाई 1980, मुम्बई) भारत के टेस्ट क्रिकेट के प्रथम ओपेनिंग बल्लेबाज थे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P641', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [145, 152], 'surfaceform': 'cricket', 'uri': 'http://www.wikidata.org/entity/Q5375', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [95, 101], 'surfaceform': 'Bombay', 'uri': 'http://www.wikidata.org/entity/Q1378539', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':नाउमल जिउमल माखीजा (17 अप्रैल 1904, कराची – 28 जुलाई 1980, मुम्बई) भारत के टेस्ट क्रिकेट के प्रथम ओपेनिंग बल्लेबाज थे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P641', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [145, 152], 'surfaceform': 'cricket', 'uri': 'http://www.wikidata.org/entity/Q5375', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [107, 112], 'surfaceform': 'India', 'uri': 'http://www.wikidata.org/entity/Q1143793', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':नाउमल जिउमल माखीजा (17 अप्रैल 1904, कराची – 28 जुलाई 1980, मुम्बई) भारत के टेस्ट क्रिकेट के प्रथम ओपेनिंग बल्लेबाज थे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P641', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [145, 152], 'surfaceform': 'cricket', 'uri': 'http://www.wikidata.org/entity/Q5375', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [121, 136], 'surfaceform': 'opening batsman', 'uri': 'http://www.wikidata.org/entity/Q4869924', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':19वीं और शुरूआती 20वीं सदियों के दौरान उन्हें उस्मानिया साम्राज्य से निर्वासित किए गए क्योंकि वे लोकतंत्र की हिमायत में राजनीतिक गतिविधियों में शामिल थे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P19', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [87, 95], 'surfaceform': 'Istanbul', 'uri': 'http://www.wikidata.org/entity/Q406', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 17], 'surfaceform': 'Prince Sabahaddin', 'uri': 'http://www.wikidata.org/entity/Q2110643', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':19वीं और शुरूआती 20वीं सदियों के दौरान उन्हें उस्मानिया साम्राज्य से निर्वासित किए गए क्योंकि वे लोकतंत्र की हिमायत में राजनीतिक गतिविधियों में शामिल थे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P570', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [98, 110], 'surfaceform': '30 June 1948', 'uri': '1948-06-30T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 17], 'surfaceform': 'Prince Sabahaddin', 'uri': 'http://www.wikidata.org/entity/Q2110643', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':19वीं और शुरूआती 20वीं सदियों के दौरान उन्हें उस्मानिया साम्राज्य से निर्वासित किए गए क्योंकि वे लोकतंत्र की हिमायत में राजनीतिक गतिविधियों में शामिल थे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P19', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [87, 95], 'surfaceform': 'Istanbul', 'uri': 'http://www.wikidata.org/entity/Q406', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 17], 'surfaceform': 'Prince Sabahaddin', 'uri': 'http://www.wikidata.org/entity/Q2110643', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':19वीं और शुरूआती 20वीं सदियों के दौरान उन्हें उस्मानिया साम्राज्य से निर्वासित किए गए क्योंकि वे लोकतंत्र की हिमायत में राजनीतिक गतिविधियों में शामिल थे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P570', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [98, 110], 'surfaceform': '30 June 1948', 'uri': '1948-06-30T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 17], 'surfaceform': 'Prince Sabahaddin', 'uri': 'http://www.wikidata.org/entity/Q2110643', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':19वीं और शुरूआती 20वीं सदियों के दौरान उन्हें उस्मानिया साम्राज्य से निर्वासित किए गए क्योंकि वे लोकतंत्र की हिमायत में राजनीतिक गतिविधियों में शामिल थे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P119', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [87, 95], 'surfaceform': 'Istanbul', 'uri': 'http://www.wikidata.org/entity/Q406', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [48, 54], 'surfaceform': 'Mehmed', 'uri': 'http://www.wikidata.org/entity/Q34503', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':19वीं और शुरूआती 20वीं सदियों के दौरान उन्हें उस्मानिया साम्राज्य से निर्वासित किए गए क्योंकि वे लोकतंत्र की हिमायत में राजनीतिक गतिविधियों में शामिल थे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P27', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [145, 152], 'surfaceform': 'Ottoman', 'uri': 'http://www.wikidata.org/entity/Q12560', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [48, 54], 'surfaceform': 'Mehmed', 'uri': 'http://www.wikidata.org/entity/Q34503', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':19वीं और शुरूआती 20वीं सदियों के दौरान उन्हें उस्मानिया साम्राज्य से निर्वासित किए गए क्योंकि वे लोकतंत्र की हिमायत में राजनीतिक गतिविधियों में शामिल थे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P36', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [87, 95], 'surfaceform': 'Istanbul', 'uri': 'http://www.wikidata.org/entity/Q406', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [145, 152], 'surfaceform': 'Ottoman', 'uri': 'http://www.wikidata.org/entity/Q12560', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':"आगे चलकर उन्होंने 1902 में निजी उद्यम और विकेंद्रीकरण एसोसिएशन (तुर्कीयाई Teşebbüs-i Şahsi ve Adem-i Merkeziyet Cemiyeti) नामक संगठन की स्थापना की थी"
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P19', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [87, 95], 'surfaceform': 'Istanbul', 'uri': 'http://www.wikidata.org/entity/Q406', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 17], 'surfaceform': 'Prince Sabahaddin', 'uri': 'http://www.wikidata.org/entity/Q2110643', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':"आगे चलकर उन्होंने 1902 में निजी उद्यम और विकेंद्रीकरण एसोसिएशन (तुर्कीयाई Teşebbüs-i Şahsi ve Adem-i Merkeziyet Cemiyeti) नामक संगठन की स्थापना की थी"
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P570', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [98, 110], 'surfaceform': '30 June 1948', 'uri': '1948-06-30T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 17], 'surfaceform': 'Prince Sabahaddin', 'uri': 'http://www.wikidata.org/entity/Q2110643', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':"आगे चलकर उन्होंने 1902 में निजी उद्यम और विकेंद्रीकरण एसोसिएशन (तुर्कीयाई Teşebbüs-i Şahsi ve Adem-i Merkeziyet Cemiyeti) नामक संगठन की स्थापना की थी"
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P19', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [87, 95], 'surfaceform': 'Istanbul', 'uri': 'http://www.wikidata.org/entity/Q406', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 17], 'surfaceform': 'Prince Sabahaddin', 'uri': 'http://www.wikidata.org/entity/Q2110643', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':"आगे चलकर उन्होंने 1902 में निजी उद्यम और विकेंद्रीकरण एसोसिएशन (तुर्कीयाई Teşebbüs-i Şahsi ve Adem-i Merkeziyet Cemiyeti) नामक संगठन की स्थापना की थी"
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P570', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [98, 110], 'surfaceform': '30 June 1948', 'uri': '1948-06-30T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 17], 'surfaceform': 'Prince Sabahaddin', 'uri': 'http://www.wikidata.org/entity/Q2110643', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':"आगे चलकर उन्होंने 1902 में निजी उद्यम और विकेंद्रीकरण एसोसिएशन (तुर्कीयाई Teşebbüs-i Şahsi ve Adem-i Merkeziyet Cemiyeti) नामक संगठन की स्थापना की थी"
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P119', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [87, 95], 'surfaceform': 'Istanbul', 'uri': 'http://www.wikidata.org/entity/Q406', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [48, 54], 'surfaceform': 'Mehmed', 'uri': 'http://www.wikidata.org/entity/Q34503', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':"आगे चलकर उन्होंने 1902 में निजी उद्यम और विकेंद्रीकरण एसोसिएशन (तुर्कीयाई Teşebbüs-i Şahsi ve Adem-i Merkeziyet Cemiyeti) नामक संगठन की स्थापना की थी"
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P27', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [145, 152], 'surfaceform': 'Ottoman', 'uri': 'http://www.wikidata.org/entity/Q12560', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [48, 54], 'surfaceform': 'Mehmed', 'uri': 'http://www.wikidata.org/entity/Q34503', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':"आगे चलकर उन्होंने 1902 में निजी उद्यम और विकेंद्रीकरण एसोसिएशन (तुर्कीयाई Teşebbüs-i Şahsi ve Adem-i Merkeziyet Cemiyeti) नामक संगठन की स्थापना की थी"
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P36', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [87, 95], 'surfaceform': 'Istanbul', 'uri': 'http://www.wikidata.org/entity/Q406', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [145, 152], 'surfaceform': 'Ottoman', 'uri': 'http://www.wikidata.org/entity/Q12560', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':एरुडोल्फ आइंस्टीन की बेटी, एल्सा का जन्म हेकिंगेन में जनवरी 1876 को हुआ था उन्हें 2 बहने थी पाउला (सी
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P26', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [76, 91], 'surfaceform': 'Albert Einstein', 'uri': 'http://www.wikidata.org/entity/Q937', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 13], 'surfaceform': 'Elsa Einstein', 'uri': 'http://www.wikidata.org/entity/Q68761', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':एरुडोल्फ आइंस्टीन की बेटी, एल्सा का जन्म हेकिंगेन में जनवरी 1876 को हुआ था उन्हें 2 बहने थी पाउला (सी
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [15, 31], 'surfaceform': 'January 18, 1876', 'uri': '1876-01-18T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 13], 'surfaceform': 'Elsa Einstein', 'uri': 'http://www.wikidata.org/entity/Q68761', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':एरुडोल्फ आइंस्टीन की बेटी, एल्सा का जन्म हेकिंगेन में जनवरी 1876 को हुआ था उन्हें 2 बहने थी पाउला (सी
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P570', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [34, 51], 'surfaceform': 'December 20, 1936', 'uri': '1936-12-20T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 13], 'surfaceform': 'Elsa Einstein', 'uri': 'http://www.wikidata.org/entity/Q68761', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':एरुडोल्फ आइंस्टीन की बेटी, एल्सा का जन्म हेकिंगेन में जनवरी 1876 को हुआ था उन्हें 2 बहने थी पाउला (सी
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P26', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [76, 91], 'surfaceform': 'Albert Einstein', 'uri': 'http://www.wikidata.org/entity/Q937', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 13], 'surfaceform': 'Elsa Einstein', 'uri': 'http://www.wikidata.org/entity/Q68761', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':एरुडोल्फ आइंस्टीन की बेटी, एल्सा का जन्म हेकिंगेन में जनवरी 1876 को हुआ था उन्हें 2 बहने थी पाउला (सी
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [15, 31], 'surfaceform': 'January 18, 1876', 'uri': '1876-01-18T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 13], 'surfaceform': 'Elsa Einstein', 'uri': 'http://www.wikidata.org/entity/Q68761', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':एरुडोल्फ आइंस्टीन की बेटी, एल्सा का जन्म हेकिंगेन में जनवरी 1876 को हुआ था उन्हें 2 बहने थी पाउला (सी
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P570', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [34, 51], 'surfaceform': 'December 20, 1936', 'uri': '1936-12-20T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 13], 'surfaceform': 'Elsa Einstein', 'uri': 'http://www.wikidata.org/entity/Q68761', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':एरुडोल्फ आइंस्टीन की बेटी, एल्सा का जन्म हेकिंगेन में जनवरी 1876 को हुआ था उन्हें 2 बहने थी पाउला (सी
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P26', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [0, 13], 'surfaceform': 'Elsa Einstein', 'uri': 'http://www.wikidata.org/entity/Q68761', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [76, 91], 'surfaceform': 'Albert Einstein', 'uri': 'http://www.wikidata.org/entity/Q937', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':एरुडोल्फ आइंस्टीन की बेटी, एल्सा का जन्म हेकिंगेन में जनवरी 1876 को हुआ था उन्हें 2 बहने थी पाउला (सी
+{'sentence_id': 0, 'predicate': {'boundaries': [68, 72], 'surfaceform': 'wife', 'uri': 'http://www.wikidata.org/prop/direct/P26', 'annotator': 'Wikidata_Property_Linker'}, 'object': {'boundaries': [76, 91], 'surfaceform': 'Albert Einstein', 'uri': 'http://www.wikidata.org/entity/Q937', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 13], 'surfaceform': 'Elsa Einstein', 'uri': 'http://www.wikidata.org/entity/Q68761', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'SPOAligner'}
+
+
+'sentence':एरुडोल्फ आइंस्टीन की बेटी, एल्सा का जन्म हेकिंगेन में जनवरी 1876 को हुआ था उन्हें 2 बहने थी पाउला (सी
+{'sentence_id': 0, 'predicate': {'boundaries': [68, 72], 'surfaceform': 'wife', 'uri': 'http://www.wikidata.org/prop/direct/P26', 'annotator': 'Wikidata_Property_Linker'}, 'object': {'boundaries': [0, 13], 'surfaceform': 'Elsa Einstein', 'uri': 'http://www.wikidata.org/entity/Q68761', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [76, 91], 'surfaceform': 'Albert Einstein', 'uri': 'http://www.wikidata.org/entity/Q937', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'SPOAligner'}
+
+
+'sentence':कर्नल मानवेन्द्र सिंह एक भारतीय राजनीतिज्ञ तथा पूर्व बाड़मेर लोक सभा निर्वाचन क्षेत्र से (2004-2009)सांसद थे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P106', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [42, 52], 'surfaceform': 'politician', 'uri': 'http://www.wikidata.org/entity/Q82955', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': None, 'surfaceform': 'Manvendra Singh', 'uri': 'http://www.wikidata.org/entity/Q6753245', 'annotator': 'NoSubject-Triple-aligner'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':लियू यांग एक चीनी पायलट और अंतरिक्ष यात्री है जो अंतरिक्ष मिशन शेनज़ोऊ 9 पर एक चालक दल के सदस्य के रूप में कार्य करती है
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P106', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [122, 131], 'surfaceform': 'astronaut', 'uri': 'http://www.wikidata.org/entity/Q11631', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': None, 'surfaceform': 'Liu Yang (astronaut)', 'uri': 'http://www.wikidata.org/entity/Q235266', 'annotator': 'NoSubject-Triple-aligner'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':लियू यांग एक चीनी पायलट और अंतरिक्ष यात्री है जो अंतरिक्ष मिशन शेनज़ोऊ 9 पर एक चालक दल के सदस्य के रूप में कार्य करती है
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P450', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [181, 191], 'surfaceform': 'Shenzhou 9', 'uri': 'http://www.wikidata.org/entity/Q581712', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': None, 'surfaceform': 'Liu Yang (astronaut)', 'uri': 'http://www.wikidata.org/entity/Q235266', 'annotator': 'NoSubject-Triple-aligner'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':लियू यांग एक चीनी पायलट और अंतरिक्ष यात्री है जो अंतरिक्ष मिशन शेनज़ोऊ 9 पर एक चालक दल के सदस्य के रूप में कार्य करती है
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [82, 97], 'surfaceform': 'October 6, 1978', 'uri': '1978-10-06T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': None, 'surfaceform': 'Liu Yang (astronaut)', 'uri': 'http://www.wikidata.org/entity/Q235266', 'annotator': 'NoSubject-Triple-aligner'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':16 जून 2012 को, लियू अंतरिक्ष में जाने वाली पहली चीन महिला बनी
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P106', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [122, 131], 'surfaceform': 'astronaut', 'uri': 'http://www.wikidata.org/entity/Q11631', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': None, 'surfaceform': 'Liu Yang (astronaut)', 'uri': 'http://www.wikidata.org/entity/Q235266', 'annotator': 'NoSubject-Triple-aligner'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':16 जून 2012 को, लियू अंतरिक्ष में जाने वाली पहली चीन महिला बनी
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P450', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [181, 191], 'surfaceform': 'Shenzhou 9', 'uri': 'http://www.wikidata.org/entity/Q581712', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': None, 'surfaceform': 'Liu Yang (astronaut)', 'uri': 'http://www.wikidata.org/entity/Q235266', 'annotator': 'NoSubject-Triple-aligner'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':16 जून 2012 को, लियू अंतरिक्ष में जाने वाली पहली चीन महिला बनी
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [82, 97], 'surfaceform': 'October 6, 1978', 'uri': '1978-10-06T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': None, 'surfaceform': 'Liu Yang (astronaut)', 'uri': 'http://www.wikidata.org/entity/Q235266', 'annotator': 'NoSubject-Triple-aligner'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':राहुल शर्मा २००६ से घरेलू क्रिकेट पंजाब की टीम से खेलते आ रहे हैं
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P19', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [82, 91], 'surfaceform': 'Jalandhar', 'uri': 'http://www.wikidata.org/entity/Q33377', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': None, 'surfaceform': 'Rahul Sharma (Indian cricketer)', 'uri': 'http://www.wikidata.org/entity/Q1088902', 'annotator': 'NoSubject-Triple-aligner'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':वह बाएं हाथ के बल्लेबाज और एक धीमी गति से बाएं हाथ के गेंदबाज है
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P19', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [82, 91], 'surfaceform': 'Jalandhar', 'uri': 'http://www.wikidata.org/entity/Q33377', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': None, 'surfaceform': 'Rahul Sharma (Indian cricketer)', 'uri': 'http://www.wikidata.org/entity/Q1088902', 'annotator': 'NoSubject-Triple-aligner'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':राहुल शर्मा २००६ से घरेलू क्रिकेट पंजाब की टीम से खेलते आ रहे हैं
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P19', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [82, 91], 'surfaceform': 'Jalandhar', 'uri': 'http://www.wikidata.org/entity/Q33377', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': None, 'surfaceform': 'Rahul Sharma (Indian cricketer)', 'uri': 'http://www.wikidata.org/entity/Q1088902', 'annotator': 'NoSubject-Triple-aligner'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':मुहम्मद मंसूर अली, (बंगाली: মোঃ মনসুর আলী; 1919 – नवंबर 3, 1975) एक बांग्लादेशी राजनेता व स्वतंत्रता सेनानी थे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P27', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [175, 185], 'surfaceform': 'Bangladesh', 'uri': 'http://www.wikidata.org/entity/Q902', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 19], 'surfaceform': 'Muhammad Mansur Ali', 'uri': 'http://www.wikidata.org/entity/Q2093162', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':मुहम्मद मंसूर अली, (बंगाली: মোঃ মনসুর আলী; 1919 – नवंबर 3, 1975) एक बांग्लादेशी राजनेता व स्वतंत्रता सेनानी थे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P570', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [52, 68], 'surfaceform': 'November 3, 1975', 'uri': '1975-11-03T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 19], 'surfaceform': 'Muhammad Mansur Ali', 'uri': 'http://www.wikidata.org/entity/Q2093162', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':मुहम्मद मंसूर अली, (बंगाली: মোঃ মনসুর আলী; 1919 – नवंबर 3, 1975) एक बांग्लादेशी राजनेता व स्वतंत्रता सेनानी थे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P27', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [175, 185], 'surfaceform': 'Bangladesh', 'uri': 'http://www.wikidata.org/entity/Q902', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 19], 'surfaceform': 'Muhammad Mansur Ali', 'uri': 'http://www.wikidata.org/entity/Q2093162', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':मुहम्मद मंसूर अली, (बंगाली: মোঃ মনসুর আলী; 1919 – नवंबर 3, 1975) एक बांग्लादेशी राजनेता व स्वतंत्रता सेनानी थे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P570', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [52, 68], 'surfaceform': 'November 3, 1975', 'uri': '1975-11-03T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 19], 'surfaceform': 'Muhammad Mansur Ali', 'uri': 'http://www.wikidata.org/entity/Q2093162', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':मुहम्मद मंसूर अली, (बंगाली: মোঃ মনসুর আলী; 1919 – नवंबर 3, 1975) एक बांग्लादेशी राजनेता व स्वतंत्रता सेनानी थे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P106', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [88, 98], 'surfaceform': 'politician', 'uri': 'http://www.wikidata.org/entity/Q82955', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [129, 150], 'surfaceform': 'Sheikh Mujibur Rahman', 'uri': 'http://www.wikidata.org/entity/Q191375', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':मुहम्मद मंसूर अली, (बंगाली: মোঃ মনসুর আলী; 1919 – नवंबर 3, 1975) एक बांग्लादेशी राजनेता व स्वतंत्रता सेनानी थे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P27', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [175, 185], 'surfaceform': 'Bangladesh', 'uri': 'http://www.wikidata.org/entity/Q902', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [129, 150], 'surfaceform': 'Sheikh Mujibur Rahman', 'uri': 'http://www.wikidata.org/entity/Q191375', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':मुहम्मद मंसूर अली, (बंगाली: মোঃ মনসুর আলী; 1919 – नवंबर 3, 1975) एक बांग्लादेशी राजनेता व स्वतंत्रता सेनानी थे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P37', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [21, 28], 'surfaceform': 'Bengali', 'uri': 'http://www.wikidata.org/entity/Q9610', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [175, 185], 'surfaceform': 'Bangladesh', 'uri': 'http://www.wikidata.org/entity/Q902', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':मुहम्मद मंसूर अली, (बंगाली: মোঃ মনসুর আলী; 1919 – नवंबर 3, 1975) एक बांग्लादेशी राजनेता व स्वतंत्रता सेनानी थे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P138', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [21, 28], 'surfaceform': 'Bengali', 'uri': 'http://www.wikidata.org/entity/Q9610', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [175, 185], 'surfaceform': 'Bangladesh', 'uri': 'http://www.wikidata.org/entity/Q902', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':श्याम सरण (जन्म: ४ सितम्बर १९४६) भारत के विदेश सचिव रह चुक हैं
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [18, 34], 'surfaceform': '4 September 1946', 'uri': '1946-09-04T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 11], 'surfaceform': 'Shyam Saran', 'uri': 'http://www.wikidata.org/entity/Q2280485', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':श्याम सरण (जन्म: ४ सितम्बर १९४६) भारत के विदेश सचिव रह चुक हैं
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [18, 34], 'surfaceform': '4 September 1946', 'uri': '1946-09-04T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 11], 'surfaceform': 'Shyam Saran', 'uri': 'http://www.wikidata.org/entity/Q2280485', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':अबेदिन नेप्राविश्ता एक अल्बानियाई राजनीतिज्ञ और दो बार (१९३३-१९३५ और १९३७-१९३९) तिराना के भूतपूर्व महापौर थे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P106', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [35, 45], 'surfaceform': 'politician', 'uri': 'http://www.wikidata.org/entity/Q82955', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': None, 'surfaceform': 'Abedin Nepravishta', 'uri': 'http://www.wikidata.org/entity/Q3304925', 'annotator': 'NoSubject-Triple-aligner'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':अबेदिन नेप्राविश्ता एक अल्बानियाई राजनीतिज्ञ और दो बार (१९३३-१९३५ और १९३७-१९३९) तिराना के भूतपूर्व महापौर थे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P27', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [80, 87], 'surfaceform': 'Albania', 'uri': 'http://www.wikidata.org/entity/Q222', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': None, 'surfaceform': 'Abedin Nepravishta', 'uri': 'http://www.wikidata.org/entity/Q3304925', 'annotator': 'NoSubject-Triple-aligner'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':अबेदिन नेप्राविश्ता एक अल्बानियाई राजनीतिज्ञ और दो बार (१९३३-१९३५ और १९३७-१९३९) तिराना के भूतपूर्व महापौर थे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P17', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [80, 87], 'surfaceform': 'Albania', 'uri': 'http://www.wikidata.org/entity/Q222', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [26, 34], 'surfaceform': 'Albanian', 'uri': 'http://www.wikidata.org/entity/Q179248', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':अबेदिन नेप्राविश्ता एक अल्बानियाई राजनीतिज्ञ और दो बार (१९३३-१९३५ और १९३७-१९३९) तिराना के भूतपूर्व महापौर थे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P17', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [80, 87], 'surfaceform': 'Albania', 'uri': 'http://www.wikidata.org/entity/Q222', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [72, 78], 'surfaceform': 'Tirana', 'uri': 'http://www.wikidata.org/entity/Q19689', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':अबेदिन नेप्राविश्ता एक अल्बानियाई राजनीतिज्ञ और दो बार (१९३३-१९३५ और १९३७-१९३९) तिराना के भूतपूर्व महापौर थे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P1376', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [80, 87], 'surfaceform': 'Albania', 'uri': 'http://www.wikidata.org/entity/Q222', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [72, 78], 'surfaceform': 'Tirana', 'uri': 'http://www.wikidata.org/entity/Q19689', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':अबेदिन नेप्राविश्ता एक अल्बानियाई राजनीतिज्ञ और दो बार (१९३३-१९३५ और १९३७-१९३९) तिराना के भूतपूर्व महापौर थे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P36', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [72, 78], 'surfaceform': 'Tirana', 'uri': 'http://www.wikidata.org/entity/Q19689', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [80, 87], 'surfaceform': 'Albania', 'uri': 'http://www.wikidata.org/entity/Q222', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':उनका जन्म लिबोहोवा में हुआ था और वे इस्तांबुल के शाही उच्च प्रशासन विद्यालय में पढ़ने के लिए चले गए
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P106', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [35, 45], 'surfaceform': 'politician', 'uri': 'http://www.wikidata.org/entity/Q82955', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': None, 'surfaceform': 'Abedin Nepravishta', 'uri': 'http://www.wikidata.org/entity/Q3304925', 'annotator': 'NoSubject-Triple-aligner'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':उनका जन्म लिबोहोवा में हुआ था और वे इस्तांबुल के शाही उच्च प्रशासन विद्यालय में पढ़ने के लिए चले गए
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P27', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [80, 87], 'surfaceform': 'Albania', 'uri': 'http://www.wikidata.org/entity/Q222', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': None, 'surfaceform': 'Abedin Nepravishta', 'uri': 'http://www.wikidata.org/entity/Q3304925', 'annotator': 'NoSubject-Triple-aligner'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':उनका जन्म लिबोहोवा में हुआ था और वे इस्तांबुल के शाही उच्च प्रशासन विद्यालय में पढ़ने के लिए चले गए
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P17', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [80, 87], 'surfaceform': 'Albania', 'uri': 'http://www.wikidata.org/entity/Q222', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [26, 34], 'surfaceform': 'Albanian', 'uri': 'http://www.wikidata.org/entity/Q179248', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':उनका जन्म लिबोहोवा में हुआ था और वे इस्तांबुल के शाही उच्च प्रशासन विद्यालय में पढ़ने के लिए चले गए
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P17', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [80, 87], 'surfaceform': 'Albania', 'uri': 'http://www.wikidata.org/entity/Q222', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [72, 78], 'surfaceform': 'Tirana', 'uri': 'http://www.wikidata.org/entity/Q19689', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':उनका जन्म लिबोहोवा में हुआ था और वे इस्तांबुल के शाही उच्च प्रशासन विद्यालय में पढ़ने के लिए चले गए
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P1376', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [80, 87], 'surfaceform': 'Albania', 'uri': 'http://www.wikidata.org/entity/Q222', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [72, 78], 'surfaceform': 'Tirana', 'uri': 'http://www.wikidata.org/entity/Q19689', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':उनका जन्म लिबोहोवा में हुआ था और वे इस्तांबुल के शाही उच्च प्रशासन विद्यालय में पढ़ने के लिए चले गए
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P36', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [72, 78], 'surfaceform': 'Tirana', 'uri': 'http://www.wikidata.org/entity/Q19689', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [80, 87], 'surfaceform': 'Albania', 'uri': 'http://www.wikidata.org/entity/Q222', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':राजा लेका ज़ोगू प्रथम के शासनाधीन वे अल्बानिया के बहुत से जिलों में महापौर रहे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P106', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [35, 45], 'surfaceform': 'politician', 'uri': 'http://www.wikidata.org/entity/Q82955', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': None, 'surfaceform': 'Abedin Nepravishta', 'uri': 'http://www.wikidata.org/entity/Q3304925', 'annotator': 'NoSubject-Triple-aligner'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':राजा लेका ज़ोगू प्रथम के शासनाधीन वे अल्बानिया के बहुत से जिलों में महापौर रहे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P27', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [80, 87], 'surfaceform': 'Albania', 'uri': 'http://www.wikidata.org/entity/Q222', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': None, 'surfaceform': 'Abedin Nepravishta', 'uri': 'http://www.wikidata.org/entity/Q3304925', 'annotator': 'NoSubject-Triple-aligner'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':राजा लेका ज़ोगू प्रथम के शासनाधीन वे अल्बानिया के बहुत से जिलों में महापौर रहे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P17', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [80, 87], 'surfaceform': 'Albania', 'uri': 'http://www.wikidata.org/entity/Q222', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [26, 34], 'surfaceform': 'Albanian', 'uri': 'http://www.wikidata.org/entity/Q179248', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':राजा लेका ज़ोगू प्रथम के शासनाधीन वे अल्बानिया के बहुत से जिलों में महापौर रहे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P17', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [80, 87], 'surfaceform': 'Albania', 'uri': 'http://www.wikidata.org/entity/Q222', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [72, 78], 'surfaceform': 'Tirana', 'uri': 'http://www.wikidata.org/entity/Q19689', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':राजा लेका ज़ोगू प्रथम के शासनाधीन वे अल्बानिया के बहुत से जिलों में महापौर रहे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P1376', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [80, 87], 'surfaceform': 'Albania', 'uri': 'http://www.wikidata.org/entity/Q222', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [72, 78], 'surfaceform': 'Tirana', 'uri': 'http://www.wikidata.org/entity/Q19689', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':राजा लेका ज़ोगू प्रथम के शासनाधीन वे अल्बानिया के बहुत से जिलों में महापौर रहे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P36', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [72, 78], 'surfaceform': 'Tirana', 'uri': 'http://www.wikidata.org/entity/Q19689', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [80, 87], 'surfaceform': 'Albania', 'uri': 'http://www.wikidata.org/entity/Q222', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':ये घरेलू क्रिकेट कर्नाटक के लिए खेलते थे जबकि इन्होंने एक मात्र एक दिवसीय अंतर्राष्ट्रीय क्रिकेट मैच न्यूज़ीलैंड क्रिकेट टीम के खिलाफ १९७६ में खेला था
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [94, 107], 'surfaceform': '8 August 1952', 'uri': '1952-08-08T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': None, 'surfaceform': 'Sudhakar Rao', 'uri': 'http://www.wikidata.org/entity/Q3528442', 'annotator': 'NoSubject-Triple-aligner'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':ये घरेलू क्रिकेट कर्नाटक के लिए खेलते थे जबकि इन्होंने एक मात्र एक दिवसीय अंतर्राष्ट्रीय क्रिकेट मैच न्यूज़ीलैंड क्रिकेट टीम के खिलाफ १९७६ में खेला था
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P37', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [25, 32], 'surfaceform': 'Kannada', 'uri': 'http://www.wikidata.org/entity/Q33673', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [111, 120], 'surfaceform': 'Bangalore', 'uri': 'http://www.wikidata.org/entity/Q1355', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':चौहान अपने क्रिकेट कैरियर में भारतीय टीम के लिए टेस्ट क्रिकेट और एक दिवसीय अंतरराष्ट्रीय क्रिकेट मैच खेला करते थे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [94, 107], 'surfaceform': '8 August 1952', 'uri': '1952-08-08T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': None, 'surfaceform': 'Sudhakar Rao', 'uri': 'http://www.wikidata.org/entity/Q3528442', 'annotator': 'NoSubject-Triple-aligner'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':चौहान अपने क्रिकेट कैरियर में भारतीय टीम के लिए टेस्ट क्रिकेट और एक दिवसीय अंतरराष्ट्रीय क्रिकेट मैच खेला करते थे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P37', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [25, 32], 'surfaceform': 'Kannada', 'uri': 'http://www.wikidata.org/entity/Q33673', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [111, 120], 'surfaceform': 'Bangalore', 'uri': 'http://www.wikidata.org/entity/Q1355', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':राहुल संघवी (जन्म; ३ सितंबर १९७४) एक पूर्व भारतीय क्रिकेटर है, जो बाएं हाथ के ऑर्थोडॉक्स स्पिन गेंदबाज है
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P2545', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [120, 142], 'surfaceform': 'left arm orthodox spin', 'uri': 'http://www.wikidata.org/entity/Q1520158', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 13], 'surfaceform': 'Rahul Sanghvi', 'uri': 'http://www.wikidata.org/entity/Q3528743', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':राहुल संघवी (जन्म; ३ सितंबर १९७४) एक पूर्व भारतीय क्रिकेटर है, जो बाएं हाथ के ऑर्थोडॉक्स स्पिन गेंदबाज है
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [51, 67], 'surfaceform': '3 September 1974', 'uri': '1974-09-03T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 13], 'surfaceform': 'Rahul Sanghvi', 'uri': 'http://www.wikidata.org/entity/Q3528743', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':राहुल संघवी (जन्म; ३ सितंबर १९७४) एक पूर्व भारतीय क्रिकेटर है, जो बाएं हाथ के ऑर्थोडॉक्स स्पिन गेंदबाज है
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P2545', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [120, 142], 'surfaceform': 'left arm orthodox spin', 'uri': 'http://www.wikidata.org/entity/Q1520158', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 13], 'surfaceform': 'Rahul Sanghvi', 'uri': 'http://www.wikidata.org/entity/Q3528743', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':राहुल संघवी (जन्म; ३ सितंबर १९७४) एक पूर्व भारतीय क्रिकेटर है, जो बाएं हाथ के ऑर्थोडॉक्स स्पिन गेंदबाज है
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [51, 67], 'surfaceform': '3 September 1974', 'uri': '1974-09-03T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 13], 'surfaceform': 'Rahul Sanghvi', 'uri': 'http://www.wikidata.org/entity/Q3528743', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':इसके अलावा उन्होंने १० एक दिवसीय अंतरराष्ट्रीय मैच भी खेले
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P2545', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [120, 142], 'surfaceform': 'left arm orthodox spin', 'uri': 'http://www.wikidata.org/entity/Q1520158', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 13], 'surfaceform': 'Rahul Sanghvi', 'uri': 'http://www.wikidata.org/entity/Q3528743', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':इसके अलावा उन्होंने १० एक दिवसीय अंतरराष्ट्रीय मैच भी खेले
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [51, 67], 'surfaceform': '3 September 1974', 'uri': '1974-09-03T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 13], 'surfaceform': 'Rahul Sanghvi', 'uri': 'http://www.wikidata.org/entity/Q3528743', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':इसके अलावा उन्होंने १० एक दिवसीय अंतरराष्ट्रीय मैच भी खेले
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P2545', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [120, 142], 'surfaceform': 'left arm orthodox spin', 'uri': 'http://www.wikidata.org/entity/Q1520158', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 13], 'surfaceform': 'Rahul Sanghvi', 'uri': 'http://www.wikidata.org/entity/Q3528743', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':इसके अलावा उन्होंने १० एक दिवसीय अंतरराष्ट्रीय मैच भी खेले
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [51, 67], 'surfaceform': '3 September 1974', 'uri': '1974-09-03T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 13], 'surfaceform': 'Rahul Sanghvi', 'uri': 'http://www.wikidata.org/entity/Q3528743', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':नल्लारि किरण कुमार रेड्डी (जन्म १३ सितंबर १९६०, हैदराबाद मे) एक भारतीय राजनीतिक नेता है और आन्ध्रप्रदेश के वर्तमान केरटेकर मुख्यमंत्री है
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P19', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [53, 62], 'surfaceform': 'Hyderabad', 'uri': 'http://www.wikidata.org/entity/Q1361', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 25], 'surfaceform': 'Nallari Kiran Kumar Reddy', 'uri': 'http://www.wikidata.org/entity/Q2114952', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':नल्लारि किरण कुमार रेड्डी (जन्म १३ सितंबर १९६०, हैदराबाद मे) एक भारतीय राजनीतिक नेता है और आन्ध्रप्रदेश के वर्तमान केरटेकर मुख्यमंत्री है
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [32, 49], 'surfaceform': '13 September 1960', 'uri': '1960-09-13T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 25], 'surfaceform': 'Nallari Kiran Kumar Reddy', 'uri': 'http://www.wikidata.org/entity/Q2114952', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':नल्लारि किरण कुमार रेड्डी (जन्म १३ सितंबर १९६०, हैदराबाद मे) एक भारतीय राजनीतिक नेता है और आन्ध्रप्रदेश के वर्तमान केरटेकर मुख्यमंत्री है
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P19', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [53, 62], 'surfaceform': 'Hyderabad', 'uri': 'http://www.wikidata.org/entity/Q1361', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 25], 'surfaceform': 'Nallari Kiran Kumar Reddy', 'uri': 'http://www.wikidata.org/entity/Q2114952', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':नल्लारि किरण कुमार रेड्डी (जन्म १३ सितंबर १९६०, हैदराबाद मे) एक भारतीय राजनीतिक नेता है और आन्ध्रप्रदेश के वर्तमान केरटेकर मुख्यमंत्री है
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [32, 49], 'surfaceform': '13 September 1960', 'uri': '1960-09-13T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 25], 'surfaceform': 'Nallari Kiran Kumar Reddy', 'uri': 'http://www.wikidata.org/entity/Q2114952', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':नल्लारि किरण कुमार रेड्डी (जन्म १३ सितंबर १९६०, हैदराबाद मे) एक भारतीय राजनीतिक नेता है और आन्ध्रप्रदेश के वर्तमान केरटेकर मुख्यमंत्री है
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P131', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [124, 138], 'surfaceform': 'Andhra Pradesh', 'uri': 'http://www.wikidata.org/entity/Q1159', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [53, 62], 'surfaceform': 'Hyderabad', 'uri': 'http://www.wikidata.org/entity/Q1361', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':नल्लारि किरण कुमार रेड्डी (जन्म १३ सितंबर १९६०, हैदराबाद मे) एक भारतीय राजनीतिक नेता है और आन्ध्रप्रदेश के वर्तमान केरटेकर मुख्यमंत्री है
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P1376', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [124, 138], 'surfaceform': 'Andhra Pradesh', 'uri': 'http://www.wikidata.org/entity/Q1159', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [53, 62], 'surfaceform': 'Hyderabad', 'uri': 'http://www.wikidata.org/entity/Q1361', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':नल्लारि किरण कुमार रेड्डी (जन्म १३ सितंबर १९६०, हैदराबाद मे) एक भारतीय राजनीतिक नेता है और आन्ध्रप्रदेश के वर्तमान केरटेकर मुख्यमंत्री है
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P36', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [53, 62], 'surfaceform': 'Hyderabad', 'uri': 'http://www.wikidata.org/entity/Q1361', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [124, 138], 'surfaceform': 'Andhra Pradesh', 'uri': 'http://www.wikidata.org/entity/Q1159', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':प्रवीन जमनादास गोर्धान (तमिल: பிரவின் ஜம்னாதாஸ் கோர்தான்) (जनम १२ अप्रैल १९४९) एक दक्षिण अफ़्रीकी राजनीतिज्ञ और मई २००९ के बाद से वित्त मंत्री
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P19', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [47, 53], 'surfaceform': 'Durban', 'uri': 'http://www.wikidata.org/entity/Q5468', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': None, 'surfaceform': 'Pravin Gordhan', 'uri': 'http://www.wikidata.org/entity/Q561279', 'annotator': 'NoSubject-Triple-aligner'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':प्रवीन जमनादास गोर्धान (तमिल: பிரவின் ஜம்னாதாஸ் கோர்தான்) (जनम १२ अप्रैल १९४९) एक दक्षिण अफ़्रीकी राजनीतिज्ञ और मई २००९ के बाद से वित्त मंत्री
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P106', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [74, 84], 'surfaceform': 'politician', 'uri': 'http://www.wikidata.org/entity/Q82955', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': None, 'surfaceform': 'Pravin Gordhan', 'uri': 'http://www.wikidata.org/entity/Q561279', 'annotator': 'NoSubject-Triple-aligner'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':प्रवीन जमनादास गोर्धान (तमिल: பிரவின் ஜம்னாதாஸ் கோர்தான்) (जनम १२ अप्रैल १९४९) एक दक्षिण अफ़्रीकी राजनीतिज्ञ और मई २००९ के बाद से वित्त मंत्री
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [30, 43], 'surfaceform': '12 April 1949', 'uri': '1949-04-12T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': None, 'surfaceform': 'Pravin Gordhan', 'uri': 'http://www.wikidata.org/entity/Q561279', 'annotator': 'NoSubject-Triple-aligner'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':वे 2005 से 2015 तक भारतीय कम्युनिस्ट पार्टी (मार्क्सवादी), संक्षेप में माकपा, के महासचिव रहे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P106', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [91, 101], 'surfaceform': 'politician', 'uri': 'http://www.wikidata.org/entity/Q82955', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 13], 'surfaceform': 'Prakash Karat', 'uri': 'http://www.wikidata.org/entity/Q278075', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':वे 2005 से 2015 तक भारतीय कम्युनिस्ट पार्टी (मार्क्सवादी), संक्षेप में माकपा, के महासचिव रहे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [51, 66], 'surfaceform': '7 February 1948', 'uri': '1948-02-07T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 13], 'surfaceform': 'Prakash Karat', 'uri': 'http://www.wikidata.org/entity/Q278075', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':वे 2005 से 2015 तक भारतीय कम्युनिस्ट पार्टी (मार्क्सवादी), संक्षेप में माकपा, के महासचिव रहे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P106', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [91, 101], 'surfaceform': 'politician', 'uri': 'http://www.wikidata.org/entity/Q82955', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 13], 'surfaceform': 'Prakash Karat', 'uri': 'http://www.wikidata.org/entity/Q278075', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':वे 2005 से 2015 तक भारतीय कम्युनिस्ट पार्टी (मार्क्सवादी), संक्षेप में माकपा, के महासचिव रहे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [51, 66], 'surfaceform': '7 February 1948', 'uri': '1948-02-07T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 13], 'surfaceform': 'Prakash Karat', 'uri': 'http://www.wikidata.org/entity/Q278075', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':वे 2005 से 2015 तक भारतीय कम्युनिस्ट पार्टी (मार्क्सवादी), संक्षेप में माकपा, के महासचिव रहे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P106', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [91, 101], 'surfaceform': 'politician', 'uri': 'http://www.wikidata.org/entity/Q82955', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 13], 'surfaceform': 'Prakash Karat', 'uri': 'http://www.wikidata.org/entity/Q278075', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':वे 2005 से 2015 तक भारतीय कम्युनिस्ट पार्टी (मार्क्सवादी), संक्षेप में माकपा, के महासचिव रहे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [51, 66], 'surfaceform': '7 February 1948', 'uri': '1948-02-07T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 13], 'surfaceform': 'Prakash Karat', 'uri': 'http://www.wikidata.org/entity/Q278075', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':वे 2005 से 2015 तक भारतीय कम्युनिस्ट पार्टी (मार्क्सवादी), संक्षेप में माकपा, के महासचिव रहे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P106', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [91, 101], 'surfaceform': 'politician', 'uri': 'http://www.wikidata.org/entity/Q82955', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 13], 'surfaceform': 'Prakash Karat', 'uri': 'http://www.wikidata.org/entity/Q278075', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':वे 2005 से 2015 तक भारतीय कम्युनिस्ट पार्टी (मार्क्सवादी), संक्षेप में माकपा, के महासचिव रहे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [51, 66], 'surfaceform': '7 February 1948', 'uri': '1948-02-07T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 13], 'surfaceform': 'Prakash Karat', 'uri': 'http://www.wikidata.org/entity/Q278075', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':वे 2005 से 2015 तक भारतीय कम्युनिस्ट पार्टी (मार्क्सवादी), संक्षेप में माकपा, के महासचिव रहे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P106', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [91, 101], 'surfaceform': 'politician', 'uri': 'http://www.wikidata.org/entity/Q82955', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 13], 'surfaceform': 'Prakash Karat', 'uri': 'http://www.wikidata.org/entity/Q278075', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':वे 2005 से 2015 तक भारतीय कम्युनिस्ट पार्टी (मार्क्सवादी), संक्षेप में माकपा, के महासचिव रहे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [51, 66], 'surfaceform': '7 February 1948', 'uri': '1948-02-07T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 13], 'surfaceform': 'Prakash Karat', 'uri': 'http://www.wikidata.org/entity/Q278075', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':वे 2005 से 2015 तक भारतीय कम्युनिस्ट पार्टी (मार्क्सवादी), संक्षेप में माकपा, के महासचिव रहे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P106', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [91, 101], 'surfaceform': 'politician', 'uri': 'http://www.wikidata.org/entity/Q82955', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 13], 'surfaceform': 'Prakash Karat', 'uri': 'http://www.wikidata.org/entity/Q278075', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':वे 2005 से 2015 तक भारतीय कम्युनिस्ट पार्टी (मार्क्सवादी), संक्षेप में माकपा, के महासचिव रहे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [51, 66], 'surfaceform': '7 February 1948', 'uri': '1948-02-07T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 13], 'surfaceform': 'Prakash Karat', 'uri': 'http://www.wikidata.org/entity/Q278075', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':वे 2005 से 2015 तक भारतीय कम्युनिस्ट पार्टी (मार्क्सवादी), संक्षेप में माकपा, के महासचिव रहे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P106', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [91, 101], 'surfaceform': 'politician', 'uri': 'http://www.wikidata.org/entity/Q82955', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 13], 'surfaceform': 'Prakash Karat', 'uri': 'http://www.wikidata.org/entity/Q278075', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':वे 2005 से 2015 तक भारतीय कम्युनिस्ट पार्टी (मार्क्सवादी), संक्षेप में माकपा, के महासचिव रहे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'NoSubject-Triple-aligner'}, 'object': {'boundaries': [51, 66], 'surfaceform': '7 February 1948', 'uri': '1948-02-07T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 13], 'surfaceform': 'Prakash Karat', 'uri': 'http://www.wikidata.org/entity/Q278075', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'NoSubject-Triple-aligner'}
+
+
+'sentence':वे 2005 से 2015 तक भारतीय कम्युनिस्ट पार्टी (मार्क्सवादी), संक्षेप में माकपा, के महासचिव रहे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P106', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [91, 101], 'surfaceform': 'politician', 'uri': 'http://www.wikidata.org/entity/Q82955', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 13], 'surfaceform': 'Prakash Karat', 'uri': 'http://www.wikidata.org/entity/Q278075', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
+
+
+'sentence':वे 2005 से 2015 तक भारतीय कम्युनिस्ट पार्टी (मार्क्सवादी), संक्षेप में माकपा, के महासचिव रहे
+{'sentence_id': 0, 'predicate': {'boundaries': None, 'surfaceform': None, 'uri': 'http://www.wikidata.org/prop/direct/P569', 'annotator': 'Simple-Aligner'}, 'object': {'boundaries': [51, 66], 'surfaceform': '7 February 1948', 'uri': '1948-02-07T00:00:00Z^^http://www.w3.org/2001/XMLSchema#dateTime', 'annotator': 'Date_Linker'}, 'dependency_path': None, 'confidence': None, 'subject': {'boundaries': [0, 13], 'surfaceform': 'Prakash Karat', 'uri': 'http://www.wikidata.org/entity/Q278075', 'annotator': 'Wikidata_Spotlight_Entity_Linker'}, 'annotator': 'Simple-Aligner'}
