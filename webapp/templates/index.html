@@ -1,11 +1,11 @@
 {% extends "layout.html" %}
-{% block page_title %}Welcome, this webapp is used to create the dataset{% endblock %}
+{% block page_title %}Welcome, this webapp is built as part of Social Computing project{% endblock %}
 {% block body %}
     {{ super() }}
 
     <head>
       <script type="text/javascript">
-        function goToNewPage()
+        function goToTestPage()
         {
             var url = document.getElementById('subdomain').value;
             if(url != 'none') {
@@ -13,27 +13,58 @@
             }
             console.log(url);
         }
+        function goToResultsPage()
+        {
+            var url = document.getElementById('testsubdomain').value;
+            if(url != 'none') {
+                window.location = url+'_results';
+            }
+            console.log(url);
+        }
     </script>
     
     </head>
+    <style>
+      .larger{
+            font-size: larger;
+            font-family:Arial, Helvetica, sans-serif;
+          }
+    </style>
+    <br><br>
     <form method="GET">
-        <div class="form-row">
-          <div class="col-12 col-md-9 mb-2 mb-md-0">
-              <label for="subdomain">Choose a choose subdomain to work on:</label>
-              <select name="subdomain" id="subdomain">
-                <option value="politicians">Politicians</option>
-                <option value="cricketers">Cricketers</option>
-                <option value="actors">Actors</option>
-              </select>
-              <br><br>
-            <input type="button" value="Go" class="btn btn-block btn-lg btn-primary" onclick="goToNewPage()">
-
-            </form>
-          </div>
-          <div class="col-12 col-md-3">
-          </div>
+      <div class="form-row">
+        <div class="col-12 col-md-9 mb-2 mb-md-0">
+            <label for="subdomain" class="larger">Choose a subdomain to create test data:</label>
+            <select name="subdomain" id="subdomain">
+              <option value="politicians">Politicians</option>
+              <option value="cricketers">Cricketers</option>
+              <option value="actors">Actors</option>
+            </select>
+          <input type="button" value="Go" onclick="goToTestPage()">
+          </form>
         </div>
-</form>
+        <div class="col-12 col-md-3">
+        </div>
+      </div>
+    </form>
+
+    <form method="GET">
+      <div class="form-row">
+        <div class="col-12 col-md-9 mb-2 mb-md-0">
+            <label for="subdomain" class="larger">Choose a subdomain to see the results:</label>
+            <select name="subdomain" id="testsubdomain">
+              <option value="politicians">Politicians</option>
+              <option value="cricketers">Cricketers</option>
+              <option value="actors">Actors</option>
+            </select>
+          <input type="button" value="Go" onclick="goToResultsPage()">
+          </form>
+        </div>
+        <div class="col-12 col-md-3">
+        </div>
+      </div>
+    </form>
+
 
 {% if status == "found" %}
 <p>The items is found </p>

@@ -1,5 +1,5 @@
 {% extends "layout.html" %}
-{% block page_title %}Here, you can create cricketers dataset{% endblock %}
+{% block page_title %}Here, you can see the results for {{title}} domain{% endblock %}
 {% block body %}
     {{ super () }}
     <body>
@@ -71,24 +71,64 @@
             padding: 10px;
             width: 180px
           }
+          table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+          }
+
+          td, th {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+          }
+
+          /* tr:nth-child(even) {
+            background-color: #dddddd;
+          } */
+          table tr {
+            display: table-cell;
+          }
+          table td {
+            display: block;
+          }
         </style>
       <br><br>
-      <p class="larger" style="font-size: small;"> You're currently annotating entity number {{iterator}}. You can change this in app.py </p>
-      <form method="post">
-        <br>
-        <p class="larger" style="font-size: large;" > Person - <b>{{jsonfile[key]['personLabel']}} </b></p>
+      <!-- <p class="larger" style="font-size: small;"> These are the results produced. </p> -->
+      <p class="larger"><b>Sentence</b></p>
+      <!-- <input type="text" id="input1" name="sentence" value="{{testKey}}" class="text-input" > -->
+      <p class="larger">{{testKey}}</p>
+      <p class="larger"><b>Actual</b></p>
+      {% for i in range(testData[testKey] | length) %}
+        <p class="larger">{{testData[testKey][i][1]}} - {{testData[testKey][i][2]}}</p>
+      {% endfor %}
+      <p class="larger"><b>Predicted</b></p>
+      {% for i in range(resultsData[testKey] | length) %}
+        <p class="larger">{{resultsData[testKey][i][1]}} - {{resultsData[testKey][i][2]}}</p>
+      {% endfor %}
+      <br>
 
-        <input type="text" id="input1" name="sentence" value="{{jsonfile[key]['sentences'][0]}}" class="text-input" >
-          <!-- <label for="input1" class="text-label">Sentence</label> -->
-        <br><br>
-        <div class="larger">
-          {% for i in range(jsonfile[key]['triples'] | length) %}
-            <label><input type="checkbox" name="triples" value="{{jsonfile[key]['triples'][i]['propertyLabel']}}, {{jsonfile[key]['triples'][i]['objectLabel']}}" id=group{{i}}> 
-            {{jsonfile[key]['triples'][i]['propertyLabel']}} ----- {{jsonfile[key]['triples'][i]['objectLabel']}} </label><br>
+      <!-- <table>
+        <tr>
+          <th>Actual</th>
+          <th>Predicted</th>
+        </tr>
+        <tr>
+          {% for i in range(testData[testKey] | length) %}
+            <td>{{testData[testKey][i][1]}} - {{testData[testKey][i][2]}}    </td>
           {% endfor %}
-          <br>
-      </div>
-        <input type="submit" class="larger" value="Submit">
+        </tr>
+        <tr>
+          {% for i in range(resultsData[testKey] | length) %}
+          <td>{{resultsData[testKey][i][1]}} - {{resultsData[testKey][i][2]}}</td>
+          {% endfor %}
+        </tr>
+        
+      </table> -->
+
+
+      <form method="post">
+        <input type="submit" class="larger" value="Next">
       </form>
     </body>
   {% endblock %}

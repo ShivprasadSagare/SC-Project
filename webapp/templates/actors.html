@@ -2,18 +2,93 @@
 {% block page_title %}Here, you can create actors dataset{% endblock %}
 {% block body %}
     {{ super () }}
-    
     <body>
+        <style>
+          .larger{
+            font-size: larger;
+            font-family:Arial, Helvetica, sans-serif;
+          }
+          .text-input{
+          position: relative;
+          margin-top: 50px;
+          }
+          input[type="text"].text-input{
+            display: inline-block;
+            width: 1000px;
+            height: 50px;
+            box-sizing: border-box;
+            outline: none;
+            border: 1px solid rgb(207, 12, 12);
+            border-radius: 10px;
+            padding: 10px 10px 10px 10px;
+            transition: all 0.1s ease-out;
+            font-size: larger;
+          }
+          
+          input[type="text"].text-input + label.text-label{
+            position: absolute;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            height: 40px;
+            line-height: 40px;
+            color: white;
+            border-radius: 3px 0 0 3px;
+            padding: 0 20px;
+            background: #E03616;
+            transform: translateZ(0) translateX(0);
+            transition: all 0.3s ease-in;
+            transition-delay: 0.2s;
+          }
 
+          .submit-button {
+            display: block;
+            font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+            font-weight: 600;
+            text-transform: uppercase;
+            font-size: .75em;
+            letter-spacing: 1px;
+            height: 38px;
+            width: 120px;
+            line-height: 38px;
+            overflow: hidden;
+            background: #4dbecf;
+            border-radius: 3px;
+            box-shadow: 0 15px 30px rgba(black,.1);
+            border: 0;
+            cursor: pointer;
+            transition: all .3s ease;
+          }
+          input[type=submit] {
+            background-color: #ccc;
+            border: 0;
+            border-radius: 5px;
+            cursor: pointer;
+            color:black;
+            font-size:16px;
+            font-weight: bold;
+            line-height: 1.4;
+            padding: 10px;
+            width: 180px
+          }
+        </style>
       <br><br>
-      <p> You're currently annotating entity number {{iterator}}. You can change this in app.py </p>
+      <p class="larger" style="font-size: small;"> You're currently annotating entity number {{iterator}}. You can change this in app.py, line number 117 </p>
       <form method="post">
-        Person - {{jsonfile[key]['personLabel']}} <br>
-        <input type="text" name="sentence" value="{{jsonfile[key]['sentences'][0]}}" size=100> <br>
-        {% for i in range(jsonfile[key]['triples'] | length) %}
-          <input type="checkbox" name="triples" value="{{jsonfile[key]['triples'][i]['propertyLabel']}}, {{jsonfile[key]['triples'][i]['objectLabel']}}"> {{jsonfile[key]['triples'][i]['propertyLabel']}} ----- {{jsonfile[key]['triples'][i]['objectLabel']}} <br>
-        {% endfor %}
-        <input type="submit" value="submit">
+        <br>
+        <p class="larger" style="font-size: large;" > Person - <b>{{jsonfile[key]['personLabel']}} </b></p>
+
+        <input type="text" id="input1" name="sentence" value="{{jsonfile[key]['sentences'][0]}}" class="text-input" >
+          <!-- <label for="input1" class="text-label">Sentence</label> -->
+        <br><br>
+        <div class="larger">
+          {% for i in range(jsonfile[key]['triples'] | length) %}
+            <label><input type="checkbox" name="triples" value="{{jsonfile[key]['triples'][i]['propertyLabel']}}, {{jsonfile[key]['triples'][i]['objectLabel']}}" id=group{{i}}> 
+            {{jsonfile[key]['triples'][i]['propertyLabel']}} ----- {{jsonfile[key]['triples'][i]['objectLabel']}} </label><br>
+          {% endfor %}
+          <br>
+      </div>
+        <input type="submit" class="larger" value="Submit">
       </form>
     </body>
   {% endblock %}
