@@ -15,3 +15,6 @@ We fetch English triple data from Wikidata and Hindi Sentences from wikipedia. A
 
 ### Code
 [data_preprocessing](https://github.com/ShivprasadSagare/SC-Project/tree/main/code/data_processing) contains all the code for data fetching, preprocessing and performing EDA. The code for baseline models deveoped is present [methods_devloped](https://github.com/ShivprasadSagare/SC-Project/tree/main/code/methods_developed).
+
+### Documents
+Project reports in pdf format can be found in this directory. For slides, visit the link [presentation](https://docs.google.com/presentation/d/1QVHAIZlDzbS4R-Qoy8MgOJr_0Zvi0cRt2pAU7Lsa1c0/edit?usp=sharing)
