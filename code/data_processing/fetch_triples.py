@@ -37,6 +37,14 @@ def extract_id(id):
 query2 = """SELECT ?propertyLabel ?objectLabel WHERE {
   wd:%s ?predicate ?object.
   ?property wikibase:directClaim ?predicate.
+  {?property wikibase:propertyType wikibase:Quantity.} UNION
+  {?property wikibase:propertyType wikibase:WikibaseItem}
+  MINUS{
+    ?property wdt:P31 wd:Q18667213
+              }
+  MINUS{
+    ?property wdt:P31 wd:Q18608359
+              }          
   SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
 }
 """
@@ -63,6 +71,9 @@ with tqdm(results1['results']['bindings'], desc="fetching entity data", ) as pba
     finally:
       pbar.set_description_str("success: %d, fail: %d" % (success, fail))
       
-dir_path = os.path.dirname(os.path.realpath(__file__))
-with open(os.path.join(dir_path, 'politicians.json'), 'w') as outfile:
+#dir_path = os.path.dirname(os.path.realpath(__file__))
+with open(r'D:\College\research\indic_wikibot\SC_project\SC-Project\data\ver 6\politicians.json', 'w') as outfile:
     json.dump(dict, outfile)
+
+
+
